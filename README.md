@@ -1,5 +1,5 @@
 # Calendar-App
-this is a demo JavaScript application for working with dom and date in js.
+this is a demo TypeScript application for working with dom and date in ts.
 this projcet use webpack to compile typescript to javascript and run it in to the browser.
 
 ## Npm Install
