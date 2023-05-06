@@ -1,6 +1,6 @@
 # Calendar-App
-this is a demo TypeScript application for working with dom and date in ts.
-this projcet use webpack to compile typescript to javascript and run it in to the browser.
+this is a demo TypeScript application for working with dom and date in js.
+in this projcet I use webpack to compile typescript to javascript and then run it in to the browser.
 
 ## Npm Install
 after you clone or download the project run `npm install` to add all package and dependencies in your project.
